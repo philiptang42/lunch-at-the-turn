@@ -1,0 +1,9 @@
+---
+title: "Lunch at the Turn"
+type: "exercise"
+description: "Use hashes to determine the price of your lunch"
+tags: "hashes"
+visibility: "public"
+ignore:
+- "lunch_at_the_turn.md"
+- "solution.md"
